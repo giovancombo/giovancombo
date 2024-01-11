@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is Giovanni Colombo. 27, Italian from Brescia, living in Florence.
+My name is Giovanni Colombo. 27, Italian from Brescia, living in Florence ⚜️.
 
 - 🖥️ MSc. Student in Artificial Intelligence at the University of Florence, Italy.
 - 📚 Curious by nature, mostly interested in Computer Vision, Reinforcement Learning and Language Modeling.
