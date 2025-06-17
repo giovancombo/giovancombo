@@ -2,7 +2,7 @@
 
 My name is Giovanni Colombo. Born in 1996, from Brescia, living in Florence, Italy ⚜️.
 
-- 🖥️ MSc. Student in Artificial Intelligence at the University of Florence, Italy.
+- 🖥️ MSc in Artificial Intelligence earned at the University of Florence, Italy.
 - 📚 Atypical nerd, deeply passionate about Artificial Intelligence, with a particular focus on Reinforcement Learning, Computer Vision, Neuromorphic Vision and Natural Language Processing.
 - 🔭 I’m currently working on my thesis about **Neuromorphic Vision**, uni projects about **Protein Structure Prediction** and **Autonomous Platoon Control**, and some minor personal projects.
 - 🚀 Amazed by AI's broad applications and aimed to channel my skills into projects with tangible, positive social impact. Check my [resume](https://github.com/giovancombo/giovancombo/blob/main/resume.pdf)!
